@@ -1,0 +1,14 @@
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\bin\Debug\net8.0\SQLNotes.exe
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\bin\Debug\net8.0\SQLNotes.deps.json
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\bin\Debug\net8.0\SQLNotes.runtimeconfig.json
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\bin\Debug\net8.0\SQLNotes.dll
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\bin\Debug\net8.0\SQLNotes.pdb
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\SQLNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\SQLNotes.AssemblyInfoInputs.cache
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\SQLNotes.AssemblyInfo.cs
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\SQLNotes.csproj.CoreCompileInputs.cache
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\SQLNotes.dll
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\refint\SQLNotes.dll
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\SQLNotes.pdb
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\SQLNotes.genruntimeconfig.cache
+C:\Vinit\SQL\Notes\SQLNotes\SQLNotes\obj\Debug\net8.0\ref\SQLNotes.dll
